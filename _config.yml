@@ -20,7 +20,6 @@ title                    : "HelloDev"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Develop"
-  B
 description              : "개인적인 개발공부를 위해 존재하는 블로입니다."
 url                      : "https://parkjh3354.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
