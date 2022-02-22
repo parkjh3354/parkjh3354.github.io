@@ -1,7 +1,7 @@
 ---
 title: "Post by "About"
 layout: about
-permalink: /categories/
+permalink: /about/
 author_profile: true
 ---
 
